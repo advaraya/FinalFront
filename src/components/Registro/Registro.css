@@ -1,0 +1,16 @@
+#login {
+  padding: 2.5rem 2.5rem;
+  box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.5);
+  display: grid;
+  grid-gap: 1.75rem;
+}
+
+.form-group {
+  text-align: left;
+  font-size: 18px;
+}
+
+.enlace {
+  font-size: 12px;
+  color: grey;
+}

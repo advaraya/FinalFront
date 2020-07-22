@@ -1,0 +1,26 @@
+.link-listing {
+  text-decoration: none;
+  color: grey;
+}
+.link-listing:hover {
+  text-decoration: none;
+  color: white;
+}
+h5 {
+  color: grey;
+}
+small {
+  color: grey;
+}
+
+.btn btn-primary load-more {
+  margin-left: 2rem;
+}
+
+.placeholder {
+  font-size: 16px;
+}
+
+h1 {
+  color: grey;
+}
